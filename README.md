@@ -13,7 +13,53 @@ Since the proportion of neutral or dissatisfied applicants (almost 57%) is highe
 
 Additionally, with an average delay of 15 minutes in loan application approval or disbursement, it is essential for the bank to focus on reducing these delays to improve customer satisfaction and retention.
 
-
+Steps Followed for Bank Loan Analysis Dashboard Creation
+Load Data into Power BI Desktop:
+The dataset, provided as a CSV file, was imported into Power BI Desktop for analysis.
+Data Profiling in Power Query Editor:
+Opened the Power Query Editor.
+Enabled the following options under the View tab in the Data Preview section:
+Column Distribution
+Column Quality
+Column Profile
+Changed the Column Profiling settings to analyze the entire dataset (default profiling is limited to the first 1000 rows).
+Data Observation:
+Reviewed all columns for errors and missing values.
+Found no errors or empty values except in the column Approval Delay.
+Handling Null Values for Delay Calculation:
+Excluded null values in the Approval Delay column while calculating the average delay time, as they constituted less than 1% of the data.
+Theme Selection:
+Selected a theme for the report under the View tab in the report view to enhance its visual appeal.
+Adding Visuals for Ratings:
+Added a visual to represent ratings using the three ellipses in the Visualizations Pane in the report view.
+Filters for Key Fields:
+Added slicers (visual filters) for the following fields:
+Loan Type
+Customer Type
+Branch Location
+Application Type
+Card Visuals for Key Metrics:
+Added two card visuals to the canvas:
+One showing the average loan processing delay (in minutes).
+Another showing the average loan approval delay (in minutes).
+Used the Visual Level Filter in the Filters Pane to exclude null values when calculating averages (although blank values are ignored by default during average calculations).
+Bar Chart for Customer Feedback:
+Added a bar chart to represent the number of satisfied, neutral, and unsatisfied applicants.
+Included the Gender field in the Legend bucket to segment feedback by gender.
+Ratings Visual for Key Performance Indicators (KPIs):
+Used the Ratings Visual to depict feedback on the following parameters:
+Loan Disbursement Time
+Customer Support
+Application Process Clarity
+Ease of Online Loan Application
+Loan Information Transparency
+Interest Rate Competitiveness
+Loan Repayment Options
+Branch Assistance
+Mobile App Functionality
+Approval Notification Process
+Loan Amount Customization
+Processing and Approval Convenience
 
 
 Here’s a tailored version of your content, rewritten for a bank loan report:
