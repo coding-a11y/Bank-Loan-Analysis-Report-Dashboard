@@ -1,6 +1,6 @@
 # Bank-Loan-Analysis-report-using-Power-BI-Dashboard
 
-### Dashboard Link : 
+### Dashboard Link : https://app.powerbi.com/links/ahwg1jIuWr?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShare
 
 ## Problem Statement
 
