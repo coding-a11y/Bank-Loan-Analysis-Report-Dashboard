@@ -2,6 +2,15 @@
 
 ### Dashboard Link :https://app.powerbi.com/links/ahwg1jIuWr?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShare
 
+![image](https://github.com/user-attachments/assets/40b02ef7-7cfc-48bc-b034-bd622042d646)
+
+![image](https://github.com/user-attachments/assets/82603e5e-8d91-4b34-8e49-1804ba1886a3)
+
+![image](https://github.com/user-attachments/assets/3adf333d-f2df-4bd2-b065-662a81421cc4)
+
+![image](https://github.com/user-attachments/assets/016d3031-5b8e-48a0-8c2e-80b0bcaf0e3f)
+
+
 ## Problem Statement
 
 
